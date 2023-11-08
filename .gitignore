@@ -1,0 +1,15 @@
+#Hardhat files
+cache
+artifacts
+node_modules
+dist/
+build/
+.vscode
+.idea
+/.VSCodeCounter/
+/types
+/typechain-types
+yarn-error.log
+*.macaroon
+*.cert
+uploads

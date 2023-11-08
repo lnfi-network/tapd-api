@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "noEmit": true,
+    "target": "es6",
+    "module": "commonjs",
+    "allowJs": true,
+    "checkJs": true,
+    "strict": false,
+    "esModuleInterop": true,
+    "allowImportingTsExtensions": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "maxNodeModuleJsDepth": 5,
+    "downlevelIteration": true,
+  },
+  "include": [ "./service"],
+  "typingOptions": {
+    "enableAutoDiscovery": true
+  },
+}
